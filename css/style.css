@@ -1,29 +1,34 @@
 body{
   margin: 0;
   padding: 0;
-  background-color: #10052b;
+  background-color: #10052b; 
+  margin-bottom: 30px;
 }
 
 header h1{
   color: #fff;
   text-align: center;
-  margin: 0 15px 15px 0;
 }
 
 .container{
   width: 100%;
   height: 100vh;
   display: inline-flex;
+  background-color: inherit;
 }
 
 .area{
   background-color: #d7e8ae;
+  margin: 10px;
+  padding: 4px;
   width: 100%;
   height: 95%;
 }
 
 .iframe{
   background-color: #d7e8ae;
+  margin: 10px;
+  padding: 4px;
   width: 100%;
   height: 95%;
 }
